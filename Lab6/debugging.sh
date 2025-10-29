@@ -1,0 +1,2 @@
+echo "Debug: variable=$var"
+
