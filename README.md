@@ -7,8 +7,6 @@ Each lab folder includes `.sh` files and output screenshots demonstrating succes
 
 ## Lab Folders
 
-- [Lab 01](./Lab01/)
-- [Lab 02](./Lab02/)
 - [Lab 03](./Lab03/)
 - [Lab 04](./Lab04/)
 - [Lab 05](./Lab05/)
