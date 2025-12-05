@@ -1,49 +1,51 @@
 # Linux Shell Scripting Labs (Lab 03 to Lab 12)
 
-This repository contains Linux Shell Scripting experiments completed for the  
-**Linux & Shell Scripting Course – UPES**.
+Linux Shell Scripting experiments for the  
+**Linux & Shell Scripting Course – UPES**
 
-Each lab directory includes:
-- Executable Shell Programs (`.sh`)
-- Output Screenshots (`.png`)
-
----
-
-## Lab Overview
-
-| Lab No. | Topics Covered |
-|--------|----------------|
-| **Lab 03** | Basic Shell Scripts |
-| **Lab 04** | Conditional Statements |
-| **Lab 05** | Arithmetic Operations & Loops |
-| **Lab 06** | Strings, Regex & Debugging |
-| **Lab 07** | Process Handling & System Utilities |
-| **Lab 08** | Files, Permissions, Jobs, Monitoring |
-| **Lab 09** | User Management & Performance Monitoring |
-| **Lab 10** | Functions & Script Modularization |
-| **Lab 11** | Menu System, File Parsing, Database-like Scripts |
-| **Lab 12** | Expert System & Multi-Recommendation Engine |
+Each lab directory contains:
+- `.sh` shell programs  
+- `.png` execution outputs  
 
 ---
 
-## Repository Structure
+## Lab Coverage
 
-- [Lab 03](./Lab03/)
-- [Lab 04](./Lab04/)
-- [Lab 05](./Lab05/)
-- [Lab 06](./Lab06/)
-- [Lab 07](./Lab07/)
-- [Lab 08](./Lab08/)
-- [Lab 09](./Lab09/)
-- [Lab 10](./Lab10/)
-- [Lab 11](./Lab11/)
-- [Lab 12](./Lab12/)
+| Lab | Description |
+|-----|------------|
+| Lab03 | Basic Shell Scripting |
+| Lab04 | Conditional Statements |
+| Lab05 | Arithmetic Operations & Loops |
+| Lab06 | Debugging, Strings & Loops |
+| Lab07 | Process Management |
+| Lab08 | Jobs, Files & Permissions |
+| Lab09 | Monitoring & File Handling |
+| Lab10 | String Processing & Functions |
+| Lab11 | Menu Systems & Text Processing |
+| Lab12 | Rule-Based Expert System |
 
 ---
 
-## Lab-wise Programs and Outputs
+## Lab Directories
 
-### 🔹 Lab 03 – Basic Shell Scripts
+- [Lab03](Lab03/)
+- [Lab04](Lab04/)
+- [Lab05](Lab05/)
+- [Lab06](Lab06/)
+- [Lab07](Lab07/)
+- [Lab08](Lab08/)
+- [Lab09](Lab09/)
+- [Lab10](Lab10/)
+- [Lab11](Lab11/)
+- [Lab12](Lab12/)
+
+---
+
+## Lab Content & Outputs
+
+---
+
+### ✅ Lab 03 — Basic Scripts
 
 | Script | Output |
 |--------|--------|
@@ -51,7 +53,7 @@ Each lab directory includes:
 
 ---
 
-### 🔹 Lab 04 – Conditional Statements
+### ✅ Lab 04 — Conditional Logic
 
 | Script | Output |
 |--------|--------|
@@ -66,7 +68,7 @@ Each lab directory includes:
 
 ---
 
-### 🔹 Lab 05 – Arithmetic & Loops
+### ✅ Lab 05 — Arithmetic & Loops
 
 | Script | Output |
 |--------|--------|
@@ -80,7 +82,7 @@ Each lab directory includes:
 
 ---
 
-### 🔹 Lab 06 – String & Debugging
+### ✅ Lab 06 — Debugging & Loops
 
 | Script | Output |
 |--------|--------|
@@ -89,14 +91,14 @@ Each lab directory includes:
 | [debugging.sh](Lab06/debugging.sh) | ![](Lab06/debugging.png) |
 | [greetcode.sh](Lab06/greetcode.sh) | ![](Lab06/greetcode.png) |
 | [grep.sh](Lab06/grep.sh) | ![](Lab06/grep.png) |
-| [loopcontrol.sh](Lab06/loopcontrol.sh) | ![](Lab06/loopcontrol.png) |
 | [loopi.sh](Lab06/loopi.sh) | ![](Lab06/loopi.png) |
+| [loopcontrol.sh](Lab06/loopcontrol.sh) | ![](Lab06/loopcontrol.png) |
 | [untilloop.sh](Lab06/untilloop.sh) | ![](Lab06/untilloop.png) |
 | [whileloop.sh](Lab06/whileloop.sh) | ![](Lab06/whileloop.png) |
 
 ---
 
-### 🔹 Lab 07 – Process & Utilities
+### ✅ Lab 07 — Processes & Files
 
 | Script | Output |
 |--------|--------|
@@ -112,7 +114,7 @@ Each lab directory includes:
 
 ---
 
-### 🔹 Lab 08 – System Commands
+### ✅ Lab 08 — Jobs, Permissions & System
 
 | Script | Output |
 |--------|--------|
@@ -132,21 +134,21 @@ Each lab directory includes:
 
 ---
 
-### 🔹 Lab 09 – User Handling
+### ✅ Lab 09 — Monitoring & Automation
 
-| Script |
-|--------|
-| [add_user.sh](Lab09/add_user.sh) |
-| [count_sh.sh](Lab09/count_sh.sh) |
-| [cpu_monitor.sh](Lab09/cpu_monitor.sh) |
-| [extension.sh](Lab09/extension.sh) |
-| [fibonacci.sh](Lab09/fibonacci.sh) |
-| [largestfile.sh](Lab09/largestfile.sh) |
-| [rename.sh](Lab09/rename.sh) |
+| Script | Output |
+|--------|--------|
+| [add_user.sh](Lab09/add_user.sh) | — |
+| [count_sh.sh](Lab09/count_sh.sh) | — |
+| [cpu_monitor.sh](Lab09/cpu_monitor.sh) | — |
+| [extension.sh](Lab09/extension.sh) | — |
+| [fibonacci.sh](Lab09/fibonacci.sh) | ![](Lab09/fibonacci.png) |
+| [largestfile.sh](Lab09/largestfile.sh) | — |
+| [rename.sh](Lab09/rename.sh) | ![](Lab09/rename.png) |
 
 ---
 
-### 🔹 Lab 10 – Functions & Files
+### ✅ Lab 10 — Modular Scripting
 
 | Script | Output |
 |--------|--------|
@@ -161,7 +163,7 @@ Each lab directory includes:
 
 ---
 
-### 🔹 Lab 11 – Advanced Scripts
+### ✅ Lab 11 — Advanced Menu & Parsing
 
 | Script | Output |
 |--------|--------|
@@ -175,19 +177,22 @@ Each lab directory includes:
 | [printfirstcolumn.sh](Lab11/printfirstcolumn.sh) | — |
 | [select.sh](Lab11/select.sh) | ![](Lab11/select.png) |
 | [splitsentence.sh](Lab11/splitsentence.sh) | ![](Lab11/splitsentence.png) |
+| [students.png](Lab11/students.png) | (Output Only) |
+| [variable_name.sh](Lab11/variable_name.sh) | ![](Lab11/variable_name.png) |
 
 ---
 
-### 🔹 Lab 12 – Expert System
+### ✅ Lab 12 — Expert System
 
 | Script | Output |
 |--------|--------|
 | [expert_system.sh](Lab12/expert_system.sh) | ![](Lab12/experiment1.png) |
 | [multi_recommendation.sh](Lab12/multi_recommendation.sh) | ![](Lab12/additonal_systems.png) |
+| [additional_systems.sh](Lab12/additional_systems.sh) | ![](Lab12/expert_system.png) |
 
 ---
 
-## How to Run Any Script
+## Run Instructions
 
 ```bash
 chmod +x script.sh
